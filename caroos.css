@@ -23,6 +23,7 @@ section.social-media{
 h1{
   font-size: 2rem;
   margin-bottom: 1.5em;
+  color: #23001E;
 } 
 .media-icons{
   display: flex; 
@@ -108,12 +109,12 @@ section.testimonial{
 .testimonial p{
   font-size: 1.45rem;
   line-height: 2.2rem;
-  margin-bottom: 2em;
+  margin-bottom: 1.8em;
 }
 .testimonial .imgBx{
   width: 95px;
   height: 95px;
-  margin: 0 auto;
+  margin: 0 auto .5em;
   border-radius: 50%;
   overflow: hidden; 
   border: 5px solid #fff;
